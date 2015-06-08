@@ -9,6 +9,7 @@ ooooooo
 
 aaaaa
 
+gomi
 
 anikigomi
 
