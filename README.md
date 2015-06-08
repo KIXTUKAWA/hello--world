@@ -24,3 +24,11 @@ Burugomi
 
 aa
 
+<<<<<<< HEAD
+=======
+
+
+asddf
+
+dddddd
+>>>>>>> origin/rensyu
