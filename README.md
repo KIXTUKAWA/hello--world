@@ -13,6 +13,3 @@ aaaaa
 anikigomi
 
 anikikusa
-
-
-anikimazikiti
