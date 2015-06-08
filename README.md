@@ -19,6 +19,19 @@ aniukitinpan
 
 anikimazikiti
 
+<<<<<<< HEAD
 bbbbbbb
 
 aaaaaaaa
+=======
+Burugomi
+
+
+aa
+
+zzzzzzzz
+
+wakaran
+
+heeee
+>>>>>>> origin/zzzz
