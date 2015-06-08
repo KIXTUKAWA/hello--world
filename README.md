@@ -24,4 +24,3 @@ Burugomi
 
 aa
 
-qqq
