@@ -9,7 +9,7 @@ ooooooo
 
 aaaaa
 
-gomi
+gomia
 
 anikigomi
 
